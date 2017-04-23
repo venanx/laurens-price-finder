@@ -1,0 +1,4 @@
+bottle
+BeautifulSoup
+httplib2
+cloudant==0.5.10
